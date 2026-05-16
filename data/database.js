@@ -3,7 +3,7 @@ dotenv.config();
 
 const MongoClient = require("mongodb").MongoClient;
 
-let database;
+let _db;
 
 const initDb = (callback) => {
     if (_db) {
