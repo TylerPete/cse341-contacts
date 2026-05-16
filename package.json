@@ -1,0 +1,20 @@
+{
+  "name": "cse341-contacts",
+  "version": "1.0.0",
+  "description": "Project for CSE341 Web Services",
+  "homepage": "https://github.com/TylerPete/cse341-contacts#readme",
+  "bugs": {
+    "url": "https://github.com/TylerPete/cse341-contacts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerPete/cse341-contacts.git"
+  },
+  "license": "ISC",
+  "author": "Tyler Peterson",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
