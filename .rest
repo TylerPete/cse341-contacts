@@ -1,1 +1,1 @@
-GET https://cse341-contacts-ntv2.onrender.com/contacts
+GET https://cse341-contacts-ntv2.onrender.com/contacts/6a08f7947a97423d336f9f8a
