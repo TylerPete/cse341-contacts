@@ -21,10 +21,10 @@ const initDb = (callback) => {
 };
 
 const getDatabase = () => {
-    if (!database) {
+    if (!_db) {
         throw Error("Database not initialized")
     }
-    return database;
+    return _db;
 };
 
 module.exports = {
